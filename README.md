@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Eliran 👋</h1>
 
-<!--
-**velik541/velik541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Python Developer • OSINT • Cybersecurity • Telegram Bots
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Python Developer
+- 🤖 Creating Telegram Bots
+- 🔍 Interested in OSINT & Cybersecurity
+- 🎮 Minecraft Modding & Servers
+- ⚡ Using VS Code
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=velik541&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=velik541&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+- Telegram: @username
