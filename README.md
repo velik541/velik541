@@ -1,101 +1,54 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Eliran</h1>
 
-# Eliran
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=750&lines=Security+Engineer+%26+Automation+Architect;Python+Backend+%26+AI+Integration;OSINT+Researcher+%26+Linux+Systems" />
+</p>
 
-```txt
-Cybersecurity • OSINT • Python • Linux • Networking
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;OSINT+Researcher;Cybersecurity+Enthusiast;Linux+%26+Windows+User;Telegram+Bot+Developer;Learning+System+Administration;Writing+Code+Every+Day" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=velik541&label=Profile+Views&color=007acc&style=flat-square" alt="Views" />
+</p>
 
 ---
 
-## ⚡ About Me
+### 🧠 Professional Profile / Инженерный профиль
 
-```python
-class Eliran:
-    def __init__(self):
-        self.username = "velik541"
-        self.languages = ["Python", "Bash"]
-        self.systems = ["Linux", "Windows"]
-        self.interests = [
-            "Cybersecurity",
-            "OSINT",
-            "Networking",
-            "System Administration",
-            "AI",
-            "Automation"
-        ]
+Я специализируюсь на стыке **информационной безопасности**, **асинхронной разработки на Python** и **системного администрирования**. Занимаюсь проектированием защищенных решений, интеграцией искусственного интеллекта (LLM) в автоматизацию процессов и комплексным анализом данных (OSINT). 
 
-    def current_focus(self):
-        return "Learning & Building Cool Projects"
-```
+* ⚡ **Advanced Automation & AI:** Разрабатываю отказоустойчивые бэкенд-приложения и интеллектуальных ИИ-агентов. Интегрирую современные нейросети для автоматизации аналитических и рутинных задач.
+* 🛡️ **Cybersecurity & OSINT:** Провожу аудит защищенности инфраструктуры, исследую векторы атак и занимаюсь глубоким поиском и корреляцией данных из открытых источников.
+* 🐧 **Infrastructure:** Уверенно работаю в Linux-окружении. Автоматизирую развертывание сервисов через Docker и Bash-скрипты, проектирую и оптимизирую базы данных.
 
 ---
 
-## 🛠 Stack
+### 🛠 Tech Stack / Технологический арсенал
 
-<div align="center">
+**Languages & AI Core:**
+`Python (Asyncio)` • `Bash Scripting` • `AI API Integrations (LLMs)` • `SQL`
 
-<img src="https://skillicons.dev/icons?i=python,linux,windows,bash,git,github,vscode,docker,mysql" />
+**Infrastructure & Tools:**
+`Linux (Debian/Arch)` • `Docker` • `MySQL` • `PostgreSQL` • `Git` • `GitHub` • `VS Code`
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=velik541&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=velik541&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
+<p align="left" style="margin-top: 15px;">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,mysql,postgres,git,github" />
+</p>
 
 ---
 
-## 🔥 Activity
+### 📈 GitHub Analytics / Статистика
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=velik541&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=velik541&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=velik541&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-## 🎯 Interests
-
-```txt
-• Cybersecurity
-• OSINT
-• Python Development
-• Linux & Windows
-• Networking
-• System Administration
-• AI Technologies
-• Automation
-• Telegram Bots
-• Infrastructure & Servers
-```
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=velik541&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🌐 Contact
+### 🎯 Research Vactors / Сфера глубокого изучения
 
-<div align="center">
-
-Telegram: @username
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=velik541&label=Profile+Views&color=0e75b6&style=flat" />
-
-</div>
+* **Advanced Networking:** Глубокий анализ сетевых стеков, перехват и анализ трафика (Wireshark), маршрутизация и коммутация.
+* **AI Security:** Исследование специфических уязвимостей ИИ-моделей (Prompt Injection, Jailbreaking) и методы защиты нейросетей.
+* **High-Load Backend:** Архитектурные паттерны, проектирование микросервисов и оптимизация производительности под высокие нагрузки.
