@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eliran</h1>
+<h1 align="center">Hi 👋</h1>
 
 <h3 align="center">
   Python Developer • Cybersecurity Learner • OSINT Researcher • Linux Enthusiast
@@ -20,7 +20,7 @@
 
 I am a motivated technology enthusiast focused on **Python development, cybersecurity, OSINT, Linux systems, networking, and AI-powered automation**.
 
-I enjoy understanding how systems work under the hood — from code logic and operating systems to network protocols, security concepts, and real-world infrastructure.
+I enjoy understanding how systems work under the hood from code logic and operating systems to network protocols, security concepts, and real-world infrastructure.
 
 My goal is to grow into a strong technical specialist who can build practical tools, analyze problems deeply, and create clean, reliable, and secure solutions.
 
