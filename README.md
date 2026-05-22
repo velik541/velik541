@@ -1,4 +1,3 @@
-````md
 <h1 align="center">Hi 👋, I'm Eliran</h1>
 
 <h3 align="center">
@@ -21,17 +20,17 @@ Role: Student & Self-Taught Developer
 Focus: Cybersecurity / OSINT / Python
 OS: Linux
 Editor: VS Code
-````
+```
 
-* 🔍 Interested in OSINT & Information Security
-* 💻 Developing Python Projects & Telegram Bots
-* 🐧 Linux User
-* 🌐 Learning Networking & System Administration
-* 🤖 Exploring AI Technologies
-* 🔐 Passionate about Cybersecurity
-* ⚡ Working with Automation & GitHub
-* 🎮 Minecraft Modding & Server Setup
-* 📚 Constantly Learning New Technologies
+- 🔍 Interested in OSINT & Information Security
+- 💻 Developing Python Projects & Telegram Bots
+- 🐧 Linux User
+- 🌐 Learning Networking & System Administration
+- 🤖 Exploring AI Technologies
+- 🔐 Passionate about Cybersecurity
+- ⚡ Working with Automation & GitHub
+- 🎮 Minecraft Modding & Server Setup
+- 📚 Constantly Learning New Technologies
 
 ---
 
@@ -47,7 +46,7 @@ Editor: VS Code
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=velik541&show_icons=true&theme=tokyonight&hide_border=true" />
-
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=velik541&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -63,34 +62,32 @@ Editor: VS Code
 
 # 🧠 Interests
 
-Cybersecurity
-OSINT
-Python Development
-Linux
-Networking
-System Administration
-Automation
-AI Technologies
-Telegram Bots
+- Cybersecurity
+- OSINT
+- Python Development
+- Linux
+- Networking
+- System Administration
+- Automation
+- AI Technologies
+- Telegram Bots
 
 ---
 
 # 🛠 Current Goals
 
-* Improve Python Skills
-* Learn Advanced Networking
-* Explore Ethical Hacking
-* Build Bigger Open Source Projects
-* Grow in Cybersecurity
+- Improve Python Skills
+- Learn Advanced Networking
+- Explore Ethical Hacking
+- Build Bigger Open Source Projects
+- Grow in Cybersecurity
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-
 Telegram: @username
-
 </p>
 
 ---
@@ -98,5 +95,3 @@ Telegram: @username
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=velik541&label=Profile+Views&color=blueviolet&style=flat" />
 </p>
-```
-
