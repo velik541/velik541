@@ -18,9 +18,9 @@
 
 ## 🧠 About Me
 
-I am a motivated technology enthusiast focused on **Python development, cybersecurity, OSINT, Linux systems, networking, and AI-powered automation**.
+I am a motivated technology enthusiast focused on **Python development, cybersecurity, OSINT, Linux systems, networking, and AI powered automation**.
 
-I enjoy understanding how systems work under the hood from code logic and operating systems to network protocols, security concepts, and real-world infrastructure.
+I enjoy understanding how systems work under the hood from code logic and operating systems to network protocols, security concepts, and real world infrastructure.
 
 My goal is to grow into a strong technical specialist who can build practical tools, analyze problems deeply, and create clean, reliable, and secure solutions.
 
@@ -67,7 +67,7 @@ My goal is to grow into a strong technical specialist who can build practical to
 
 ## 🚀 Engineering Mindset
 
-I do not just want to copy code — I want to understand it.
+I do not just want to copy code I want to understand it.
 
 I focus on:
 
@@ -84,13 +84,13 @@ I focus on:
 
 I am especially interested in:
 
-- OSINT investigations;
-- Linux security basics;
-- network traffic analysis;
-- authentication and access control;
-- secure automation;
-- vulnerability research fundamentals;
-- defensive security practices.
+- OSINT investigations
+- Linux security basics
+- network traffic analysis
+- authentication and access control
+- secure automation
+- vulnerability research fundamentals
+- defensive security practices
 
 My approach is based on ethical learning, legal research, and building skills that can be used to protect systems.
 
@@ -100,13 +100,13 @@ My approach is based on ethical learning, legal research, and building skills th
 
 I am also exploring how AI can be used to improve technical workflows:
 
-- AI-assisted coding;
-- automation of repetitive tasks;
-- intelligent Telegram bots;
-- text and data analysis;
-- prompt engineering;
-- LLM API integrations;
-- combining Python tools with AI models.
+- AI-assisted coding
+- automation of repetitive tasks
+- intelligent Telegram bots
+- text and data analysis
+- prompt engineering
+- LLM API integrations
+- combining Python tools with AI models
 
 ---
 
